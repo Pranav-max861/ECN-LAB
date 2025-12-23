@@ -1,5 +1,7 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+PRANAV K (212225060204)
+
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
